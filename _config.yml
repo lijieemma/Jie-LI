@@ -1,12 +1,12 @@
 # Site settings
-title: Essex Workshop
-email: kris@wkhofstadter.info
+title: Essex Translation
+email: lijieemma@gmail.com
 description: "A boilerplate set up to create a bilingual Jekyll website from Wiredcraft"
 keywords:
 - Jekyll
 
 # URL
-url: "https://krisztian-hofstadter-tedor.github.io/jekyll-multiling" # to add;
+url: "https://lijieemma.github.io/website/" # to add;
 baseurl: ""
 
 # Google tracking (Analytics and Google Tag Manager)
