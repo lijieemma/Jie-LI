@@ -1,6 +1,6 @@
 ---
 layout: front
-title: Home
+title: Welcome!
 description: "Jie Li is a translator and Interpretor speacialized in artifical intelligence, environmental protection, economics and automotive industry."
 lang: en
 ---
