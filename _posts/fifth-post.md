@@ -2,7 +2,7 @@
 title: fifth Post
 description: 'This is the fifth post of the "posts" collection.'
 lang: en
-image:/files/images/BigData_Wormhole_XL_721_420_80_s_c1.jpg
+image: /files/images/BigData_Wormhole_XL_721_420_80_s_c1.jpg
 ---
 
 Comparative political economy
