@@ -15,4 +15,5 @@ Hanshi Festival is the day before Qingming, when there will be no fire to cook a
 Once Chong Er realized that he had made a huge mistake, he went to search for Jie Zidui in person. He had the hills set on fire because of the dense forests and lack of signs, trying to persuade Jie to come back. But Jie Zidui never showed up. Someone found that Jie Zidui and his mother were died in an embrace, leaving a letter written his blood. It read: I cut my flesh to show my loyalty, wishing my lord to be sober and bright. In memory of Jie Zidui, Chong Er ordered that fire could not be lit and only cold food were available on the day of Jie’s death.
 
 Nowadays, the tradition of no fire had no longer been in existence, while other traditions of willows planting, ancestors worship and tomb sweeping have been passed so far. During Qingming, people will sweep tombs to show respects to the ancestors with their family. 
+
 ---
