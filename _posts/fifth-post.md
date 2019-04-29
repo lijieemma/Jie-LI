@@ -4,6 +4,7 @@ description: 'This is the fifth post of the "posts" collection.'
 lang: en
 image:files/images/BigData_Wormhole_XL_721_420_80_s_c1.jpg
 ---
+
 Comparative political economy
 ---
 Economic theorizing was not at all giving a unanimous and positive assessment: the theory of optimal monetary zones (Mundel, 1961) was stressing that this voluntarist move ran against adverse structural conditions such as limited labor mobility and price and wage rigidities. But the rationality of expectations of governments and economic actors (the Euro is irreversible) was supposed to induce them to make all the required structural reforms in terms of public finance, industrial and innovation policy, labor flexibility and mobility. This was a confusion between the logic of power and economic rationality. Some dissenting economists stressed the dysfunctionality of the euro with respect to the diversity of régulation modes but at that time they found few allies in civil society (Boyer, 1999).
