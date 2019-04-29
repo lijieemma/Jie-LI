@@ -12,4 +12,4 @@ Hello, my name is Jie Li. Here is my website. You can get access to my CV and tr
 
 Have fun!
 
-## Blog
+## Collection
