@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 例
-description: "Jekyll Basics 是一个将Jekyll 网站模组化的框架。同时支持多语言和内容管理系统(基于Jekyll的CMS)。"
+description: "我是李洁，一名职业翻译，熟悉人工智能、环保、经济以及汽车行业的翻译。"
 lang: zh
 ---
 
-这是一个示例页面，你可以根据自己的需要进行增删。
+这里是我的个人网站，您可以查看我的个人简历和翻译集，如有任何疑问，请您联系我，我的邮箱是lijieemma@gmail.com
 
 看看'data'文件夹，了解逻辑。
