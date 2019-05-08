@@ -23,4 +23,5 @@ Medical Translation
 >Plantar flexion also prevents you from falling over when retreating because it provides a stable base to step back on to. The other important feature of the anatomy of the triceps surae is that the two muscles it is made of, the gastrocnemius and the soleus, have different points of attachment in the leg.
 
 >足底跖屈还会在你后撤时提供了一个稳定的基底，防止你摔倒。在解剖学分析上，三头肌,是由两种肌肉组成的，即腓肠肌和独角肌, 在腿上有不同的着力点。这是三头肌的一个重要特征.
+
 ---
