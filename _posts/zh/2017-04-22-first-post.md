@@ -1,49 +1,25 @@
 ---
-title: 第一篇文章／某专业领域
-description: 这是“文章“列表里的第一篇文章。虽然这些文章在网页模板里都被称作‘博文’，你不一定要规律地发表博文，而是可以利用这个位置编辑Portfolio，展示某领域的翻译实例，还可以加上几句评论。
+title: 第一篇文章
+description: 这是第一篇文章，中国经济的翻译
 lang: zh
-categories: zh
 image: /files/images/china-street.jpg
 ---
 
-我的翻译实例，堆叠。
+Economics-CN_EN
 
 ---
 
-可以被践踏的道不是经久不衰的
-不变的道。 可以命名的名称不是经久不衰的
-不变的名字。
+中国经济的高速增长，很大程度上是通过大量投入资本、劳动和土地等自然资源实现的。王小鲁（2009）等人研究认为中国资本形成率在1980-1990年在35%上下波动，近年来进一步上升到42%左右，高资本形成率是过去支撑中国经济增长的最主要因素之一。
 <br><br>
-（被认为是）没有名字，它是天堂的创始人
-和地球; （被认为是）有一个名字，它是所有人的母亲
-的东西。
+China’s high-speed economic growth is achieved, to a larger extent, through inputting natural resources like capital, labour and land. Studies show that China’s Capital Formation Rate was fluctuating around 35% from the year of 1980 to 1990. In recent years, the rate increases to some 42%. Therefore, one of the pillars to support China’s economic growth in the past years is high Capital Formation Rate (Wang Xiaolu, 2009).
 <br><br>
-永远没有欲望，我们必须找到，
-如果它的深奥之处我们会发出声音;
-但如果欲望总是在我们内心，
-它的外边缘就是我们所能看到的。
+而这种高投入支撑了中国经济增长数量的奇迹，但以投入产出效率来衡量经济增长的质量，高投入、低产出、技术含量低的生产方式导致等量的原料、资源投入所创造的价值较少，增长质量必然不高。
 <br><br>
-在这两个方面，它实际上是一样的; 但作为发展
-它发生了，它收到不同的名字。 我们一起称呼它们
-谜。 最神秘的地方就是所有这一切的大门
-是微妙和美妙的。
+It was this high input that contributed to the quantity miracle of China’s economic growth. But when we measure the quality of this growth by efficiency, it turns out to be opposite. Because the production featuring high input, low output and low-tech would definitely lead to lower value considering the equivalent resources originally input.
+<br><br>
+所以为了实现经济的持续发展，在经济的发展过程中要“提高资源的组合质量和资源的利用效率，降低投入，提高产出”（王积业，2000）。因此，投入与产出的效率、质量方面的差异直接导致经济增长中数量和质量不一致。
+<br><br>
+Therefore, in order to make growth sustainable, we need to increase the distribution quality and efficiency of resources, and try to achieve low input and high output in the course of economic development (Wang Jiye, 2000). All in all, the differences in efficiency and quality of input and output could directly lead to the inconsistency of quality and quantity. 
 
 ---
 
-The Tao that can be trodden is not the enduring and
-unchanging Tao. The name that can be named is not the enduring and
-unchanging name.
-
-(Conceived of as) having no name, it is the Originator of heaven
-and earth; (conceived of as) having a name, it is the Mother of all
-things.
-
-Always without desire we must be found,
-If its deep mystery we would sound;
-But if desire always within us be,
-Its outer fringe is all that we shall see.
-
-Under these two aspects, it is really the same; but as development
-takes place, it receives the different names. Together we call them
-the Mystery. Where the Mystery is the deepest is the gate of all that
-is subtle and wonderful.
