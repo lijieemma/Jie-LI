@@ -1,8 +1,8 @@
 ---
 title: 第三篇文章
-description: 这是第三篇文章，气候变化翻译
+description: '这是第三篇文章，关于政治经济学.'
 lang: zh
-image：files/images/2222.jpg
+image: files/images/Universe 1.jpg
 ---
 
 Climate Change
