@@ -3,15 +3,12 @@ layout: front
 lang: zh
 categories: zh
 title: 你好！
-description: "Jekyll Basics是一个网站模板，可支持多种语言和（基于Jekyll的）内容管理系统。"
+description: "我是李洁，一名职业翻译，熟悉人工智能、环保、经济以及汽车行业的翻译。"
 ---
 
-大家好，我是Krisztian Hofstadter。 这是一个多语言的网站模板，有一个页面（主页）和四篇博客文章。 你可以在这里简单介绍自己，添加相关专业网站的个人信息页链接（比如Proz, Translators' Cafe, linkedin），还可以添加你PDF版简历链接，如下所示：
+大家好，我是李洁，这里是我的个人网站，您可以通过以下方式查看我的个人简历和所翻译的文章节选，如有任何疑问，请您联系我，我的邮箱是：lijieemma@gmail.com：
 
-[CV](https://khofstadter.info/assets/doc/K-Hofstader-CV-general-2019.pdf)   
-[Work](https://www.anglia.ac.uk/people/krisztian-hofstadter)   
-[LinkedIn](https://www.linkedin.com/in/tedor)
+[CV](https://www.slideshare.net/slideshow/embed_code/key/qAtf06GrhNxSWV)   
+[LinkedIn](https://www.linkedin.com/in/%E6%B4%81-%E6%9D%8E-7936b4a8/)
 
-希望大家这节课玩得开心！
-
-## 博客
+翻译节选
