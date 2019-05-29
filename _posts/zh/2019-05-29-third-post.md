@@ -1,6 +1,6 @@
 ---
-title: 第三篇翻译
-description: 这是第三篇翻译，关于气候变化
+title: 第三篇文章
+description: 这是第三篇文章，气候变化翻译
 lang: zh
 image：files/images/Universe 1.jpg
 ---
