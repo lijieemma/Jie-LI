@@ -7,6 +7,7 @@ image: /files/images/BigData_Wormhole_XL_721_420_80_s_c1.jpg
 
 Comparative political economy
 ---
+
 Economic theorizing was not at all giving a unanimous and positive assessment: the theory of optimal monetary zones (Mundel, 1961) was stressing that this voluntarist move ran against adverse structural conditions such as limited labor mobility and price and wage rigidities. But the rationality of expectations of governments and economic actors (the Euro is irreversible) was supposed to induce them to make all the required structural reforms in terms of public finance, industrial and innovation policy, labor flexibility and mobility. This was a confusion between the logic of power and economic rationality. Some dissenting economists stressed the dysfunctionality of the euro with respect to the diversity of régulation modes but at that time they found few allies in civil society (Boyer, 1999).
 
 经济理论化并未给出一个一致且明确的评估，最优货币理论（Mundel, 1961）强调这种唯意志论举动的存在是针对不利的结构性条件，比如：劳动力流动受限、价格受限以及工资刚性受限等。但是，政府和经济参与者预期的合理性（欧元体系是不可逆转的）理应引导他们做出所有规定的结构性改革，这些改革涉及到公共财政、工业创新政策以及劳动力灵活性和流动性。显然，大国逻辑与经济合理性之间是存在矛盾的。一些持反对意见的经济学家强调欧元体系在调节模式中的多样性方面显现出了异常，但是，他们的意见无法得到人们的认同。
