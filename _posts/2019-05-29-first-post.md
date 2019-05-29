@@ -1,6 +1,6 @@
 ---
-title: Third Post
-description: 'This is the third post of the "posts" collection.'
+title: First Post
+description: 'This is the first post of the "posts" collection.'
 lang: en
 image: /files/images/china-street.jpg
 ---
