@@ -2,7 +2,7 @@
 title: third post
 description: 'This is the third post of the "posts" collection.'
 lang: en
-image:files/images/Universe 1.jpg
+image: files/images/Universe 1.jpg
 ---
 
 Climate Change
