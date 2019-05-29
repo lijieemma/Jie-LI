@@ -1,13 +1,13 @@
 ---
 title: third post
-description: This is the third post of the "posts" collection.
+description: 'This is the third post of the "posts" collection'.
 lang: en
 image:files/images/Universe 1.jpg
 ---
 
----
-
 Climate Change
+
+---
 
 EARTH is smouldering. From Seattle to Siberia this summer, flames have consumed swathes of the northern hemisphere. One of 18 wildfires sweeping through California, among the worst in the state’s history, is generating such heat that it created its own weather. Fires that raged through a coastal area near Athens in late July killed 91. Elsewhere people are suffocating in the heat. Roughly 125 have died in Japan as the result of a heatwave that pushed temperatures in Tokyo above 40°C for the first time.
 
